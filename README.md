@@ -103,19 +103,11 @@ Clientes classificados como alto risco apresentaram churn real de 63,5%.
 
 # Resultados visuais
 
-## Churn por tempo de relacionamento
+Os gráficos, tabelas e interpretações completas estão disponíveis nos notebooks:
 
-![Churn por Tenure](images/churn_tenure.png)
-
-## Curva ROC
-
-![ROC Curve](images/roc_curve.png)
-
-## Variáveis mais importantes
-
-![Feature Importance](images/feature_importance.png)
-
----
+- `01_shopmais_data_quality_and_cleaning.ipynb`
+- `02_shopmais_feature_engineering_and_eda.ipynb`
+- `03_churn_prediction_model.ipynb`
 
 # Tecnologias utilizadas
 
