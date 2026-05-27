@@ -1,22 +1,25 @@
-#ShopMais Retention Analytics
+# ShopMais Retention Analytics
 
-## Engenharia de Features, EDA e Machine Learning para previsão de churn em e-commerce
+## EDA, Feature Engineering and Machine Learning for Customer Churn Prediction
 
-Este projeto simula um case real de analytics para uma empresa fictícia de e-commerce chamada **ShopMais**.
+Projeto completo de analytics focado em churn de clientes em e-commerce.
 
-O objetivo foi identificar fatores associados ao churn de clientes e desenvolver um modelo preditivo capaz de priorizar clientes com maior risco de abandono.
+O projeto combina:
+
+- análise exploratória orientada a negócio;
+- engenharia de features;
+- segmentação de risco;
+- Machine Learning;
+- priorização de clientes;
+- estimativa de impacto financeiro.
 
 ---
 
-# Objetivos do projeto
+## Objetivo
 
-- analisar churn de clientes;
-- tratar dados reais com valores ausentes;
-- criar features orientadas a negócio;
-- gerar insights acionáveis;
-- construir segmentação de risco;
-- desenvolver modelo preditivo de churn;
-- estimar impacto financeiro do churn.
+Identificar fatores associados ao churn e desenvolver um modelo capaz de prever clientes com maior risco de abandono.
+
+O foco principal do projeto foi transformar análise de dados em decisões práticas de negócio.
 
 ---
 
@@ -73,7 +76,7 @@ Modelo utilizado:
 
 - Random Forest Classifier
 
-Principais métricas:
+Resultado das métricas:
 
 - ROC AUC: 0.92
 - Recall (churn): 82.7%
@@ -121,13 +124,6 @@ Os gráficos, tabelas e interpretações completas estão disponíveis nos noteb
 
 ---
 
-# Estrutura do projeto
-
-```text
-shopmais-churn-eda/
-```
-
----
 
 # Conclusão
 
